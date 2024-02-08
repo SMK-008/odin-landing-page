@@ -106,3 +106,9 @@ button{
     color: white;
     text-align: center;
 }
+img{
+    border-radius: 15px;
+}
+.section-one p{
+    text-align: center;
+}

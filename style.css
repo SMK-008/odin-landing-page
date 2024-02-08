@@ -72,6 +72,30 @@ button{
     flex-direction: column;
     /* justify-content: center; */
     align-items: center;
-
+}
+.section-three{
+    display: flex;
+    justify-content: center;
+}
+.sign{
+    display: flex;
+    justify-content: space-between;
+    gap: 500px;
+    align-items: center;
+    background-color:#3883f6;
+    margin: 50px;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 50px;
     
+    
+}
+button{
+    height: 35px;
+    width: 90px;
+    border-radius: 10px;
+    border-color: white;
+    color: white;
+    
+
 }

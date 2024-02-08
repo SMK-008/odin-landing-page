@@ -33,6 +33,7 @@ button{
     font-size: 36px ;
     font-weight: bold;
     color: #1f2937;
+    text-align: center;
 }
 .quote p{
     font-size: 36px;
@@ -57,4 +58,12 @@ button{
 }
 .header{
     padding: 0px 200px 100px 200px;
+}
+
+.section-one ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    gap: 50px;
+
 }

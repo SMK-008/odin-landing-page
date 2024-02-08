@@ -1,4 +1,7 @@
-
+body{
+    display: flex;
+    flex-direction: column;
+}
 .header,.footer{
     background-color:#1f2937 ;
 }
@@ -35,4 +38,23 @@ button{
     font-size: 36px;
     font-style:  italic;
     
+}
+.header{
+    display: flex;
+    flex-direction: column;
+}
+.head1,.head2{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-bar ul{
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    list-style-type: none;
+    gap: 30px;
+    
+}
+.header{
+    padding: 0px 200px 100px 200px;
 }

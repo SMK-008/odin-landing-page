@@ -1,3 +1,4 @@
+
 .header,.footer{
     background-color:#1f2937 ;
 }
@@ -5,6 +6,33 @@
     background-color:#e5e7eb ;
 }
 .logo{
-    font-size: 24px #f9faf8;
+    font-size: 24px ;
+    color:  #f9faf8;
 
+}
+.head2 h1{
+    font-size: 48px ;
+    font-weight: bold;
+    color: #f9faf8;
+}
+.description{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.nav-bar{
+    color: #f9faf8;
+    font-size: 18px;
+}
+button{
+    background-color: #3883f6;
+}
+.section-one h1{
+    font-size: 36px ;
+    font-weight: bold;
+    color: #1f2937;
+}
+.quote p{
+    font-size: 36px;
+    font-style:  italic;
+    
 }

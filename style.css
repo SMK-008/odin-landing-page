@@ -51,9 +51,8 @@ button{
 .nav-bar ul{
     display: flex;
     flex-direction: row;
-    background-color: red;
     list-style-type: none;
-    gap: 30px;
+    gap: 50px;
     
 }
 .header{

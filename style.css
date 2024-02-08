@@ -124,3 +124,6 @@ button:hover{
     background-color: white;
     color: black;
 }
+.image img{
+    border-radius: 0;
+}

@@ -73,6 +73,10 @@ button{
     /* justify-content: center; */
     align-items: center;
 }
+.quote p:last-child{
+    font-size: 25px;
+    text-align: end;
+}
 .section-three{
     display: flex;
     justify-content: center;

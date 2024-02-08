@@ -112,3 +112,15 @@ img{
 .section-one p{
     text-align: center;
 }
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+    opacity: 0.55;
+}
+button:hover{
+    background-color: white;
+    color: black;
+}
